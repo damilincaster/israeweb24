@@ -1,0 +1,71 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 7 Platform" />
+    <property name="BuckNotification" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="repos&#10;dependency&#10;play&#10;sync&#10;suppo" />
+    <property name="KEY_GENYMOTION_PATH" value="D:\ProgramFiles\Genymotion" />
+    <property name="MobileminApi" value="23" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SettingsSearchHistory" value="plu&#10;libra&#10;depe&#10;Google Repository&#10;tas" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="dependency&#10;services&#10;assemble&#10;studio core&#10;gradle" />
+    <property name="android-component-compatibility-check" value="1563455274671" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="crashlytics.cmApiUrl" value="https://cm.crashlytics.com" />
+    <property name="crashlytics.distributionUploadsApiUrl" value="https://distribution-uploads.crashlytics.com" />
+    <property name="crashlytics.kitApiUrl" value="https://kits.crashlytics.com" />
+    <property name="crashlytics.startPluginUpdater" value="true" />
+    <property name="crashlytics.startSdkUpdater" value="true" />
+    <property name="crashlytics.webApiUrl" value="https://api.crashlytics.com" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="fabric.installationId" value="838d331e-04e8-4836-a038-337448ce69f8" />
+    <property name="fabric.override_email" value="false" />
+    <property name="file.chooser.recent.files" value="$APPLICATION_HOME_DIR$/gradle/gradle-5.5&#10;D:/ProgramFiles/android studio/gradle&#10;C:/Users/israe/Desktop/ANDROIDSTUDIOPROJECTS/tiggerbounce&#10;D:/keystores/Flyingeggs.jks&#10;C:/Users/israe/Desktop/project/Flyingeggs/android&#10;D:/ProgramFiles/keystore/dami.jks&#10;C:/Users/israe/workspace&#10;C:/Users/israe/Desktop/ANDROIDSTUDIOPROJECTS/tiggerbounce/android&#10;C:/Users/israe/Desktop/build/android2&#10;C:/Users/israe/Desktop/build/Flyingeggs/android&#10;C:/Users/israe/Desktop/build/Flyingeggs&#10;C:/Users/israe/Desktop/build/Flyingeggs/gradlew.bat&#10;D:/ProgramFiles/android-ndk-r20&#10;C:/&#10;C:/Users/israe/.AndroidStudio3.4/config&#10;D:/ProgramFiles/Genymotion&#10;C:/Users/israe/.gradle&#10;C:/Users/israe/Desktop/build/flyingeggs/android&#10;C:/Users/israe/Desktop/build/flyingeggs&#10;C:/Users/israe/Downloads/android-studio-ide-191.5679705-windows&#10;D:/ProgramFiles/SDK/adt-bundle-windows-x86_64-20140702&#10;D:/ProgramFiles&#10;D:/ProgramFiles/SDK&#10;D:/ProgramFiles/out&#10;D:/ProgramFiles/SDK/adt-bundle-windows-x86_64-20140702/sdk&#10;C:/Users/israe/Desktop/build/new/Flyingeggs&#10;C:/Users/israe/Desktop/build/Flyingeggs2&#10;D:/ProgramFiles/keystore&#10;C:/Users/israe/Desktop/build/tiggerbounce&#10;C:/Users/israe/Desktop/new/flying2" />
+    <property name="file.gist.reindex.count" value="363" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="ideavim.statistics.timestamp" value="1563199343797" />
+    <property name="ignore.power.save.mode" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.41-release-Studio3.4-1" />
+    <property name="kotlin.lastUpdateCheck" value="1563815272286" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.41-release-Studio3.4-1:2019-07-03" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/project/Flyingeggs/android" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-5.5" />
+    <property name="lastTip" value="88" />
+    <property name="newly.installed.api.level" value="18" />
+    <property name="power.save.mode" value="true" />
+    <property name="selected.color.option.type" value="BOOKMARKS_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="studio.activity.count" value="0" />
+    <property name="tv.twelvetone.gradle.plugin.navigation/open" value="true" />
+  </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
+</application>

@@ -1,0 +1,44 @@
+<application>
+  <component name="MikSettings">
+    <option name="aliyunOssState">
+      <AliyunOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </AliyunOssState>
+    </option>
+    <option name="qiniuOssState">
+      <QiniuOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </QiniuOssState>
+    </option>
+    <option name="tencentOssState">
+      <TencentOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </TencentOssState>
+    </option>
+    <option name="weiboOssState">
+      <WeiboOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </WeiboOssState>
+    </option>
+  </component>
+</application>

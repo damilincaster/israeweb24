@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/ANDROIDSTUDIOPROJECTS/tiggerbounce" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/build/Flyingeggs" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/build/flyingeggs" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/build/tiggerbounce3" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="android.sdk.path" value="D:/ProgramFiles/SDK/adt-bundle-windows-x86_64-20140702/sdk" />
+        <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+      </component>
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

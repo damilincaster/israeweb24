@@ -1,0 +1,8 @@
+<application>
+  <component name="TaskPluginSettings">
+    <option name="askActualWhenCompleteTask" value="true" />
+    <option name="enableActualTime" value="true" />
+    <option name="priorityPropagatedOneLevelOnly" value="true" />
+    <option name="propagatePriority" value="true" />
+  </component>
+</application>
