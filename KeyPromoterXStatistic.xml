@@ -17,12 +17,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Module 'TIGGERBOUNCE'">
+        <Item>
+          <IdeaActionID>MakeModule</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+F9'</ShortCut>
+          <Description>Build Module 'TIGGERBOUNCE'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
